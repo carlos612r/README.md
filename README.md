@@ -9,6 +9,12 @@ I have more than 7 years of experience in application development and cloud arch
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [carlos612r@gmail.com](mailto:carlos612r@gmail.com)
 
+### Cloud
+
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Clooud Platform" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon WS" />
+
 ### Skills
 
 
